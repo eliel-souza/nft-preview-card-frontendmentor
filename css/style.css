@@ -132,11 +132,11 @@ img {
   gap: 1rem;
 }
 
-.detail__price {
+.detail__price span {
   color: var(--cyan);
 }
 
-.detail__date {
+.detail__date span {
   font-weight: 400;
   color: var(--soft-blue);
 }
