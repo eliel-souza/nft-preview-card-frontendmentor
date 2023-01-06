@@ -5,7 +5,7 @@
 ## About The Project
 
 The challenge of this project is to create this preview card component and make it as close to the design as possible.
-You can use any tool you like to help you complete the challenge. So if you have something you'd like to practice, feel free to give it a try.
+You can use any tool you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 This HTML and CSS challenge is ideal for beginners or anyone who wants a small project to study.
 
 Your users should be able to:
