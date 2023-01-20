@@ -2,20 +2,42 @@
 
 <h1 align="center">NFT preview card component</h1>
 
-## About The Project
+<div align="center">
+  <h3>
+    <a href="">
+      Site
+    </a>
+    <span> | </span>    
+    <a href="">
+      Challenge
+    </a>
+  </h3>
+</div>
 
-The challenge of this project is to create this preview card component and make it as close to the design as possible.
-You can use any tool you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
-This HTML and CSS challenge is ideal for beginners or anyone who wants a small project to study.
+&nbsp;
 
-Your users should be able to:
+&nbsp;
 
-- View optimal layout depending on device screen size
-- See hover states for interactive elements
 
-## Built with
+## Sobre o Projeto
 
-- Semantic HTML5 markup
-- CSS custom properties
+Este desafio de HTML e CSS é perfeito para quem está começando ou para quem quer um pequeno projeto para estudar.
+Seu desafio é criar o NFT preview card component e deixá-lo o mais próximo possível do design.
+Você pode usar qualquer ferramenta que desejar para ajudá-lo a concluir o desafio. Portanto, se você tem algo que gostaria de praticar, sinta-se à vontade para utilizar.
+
+Seus usuários devem ser capazes de:
+
+- Visualizar o layout ideal, dependendo do tamanho da tela do dispositivo
+- Visualizar os estados de foco para elementos interativos
+
+## Construído com
+
+- HTML5 Semântico
+- Propriedades personalizadas CSS
+- BEM
 - Flexbox
-- Desktop-first workflow
+- Desktop-first
+
+## O que Aprendi
+
+Estruturar o HTML, criar as tags, estilizar com o CSS não foi difícil. Por outro lado, foi mais desafiador criar o overlay da imagem do card. Aprendi como fazer, e como trabalhar com a imagem do ícone no overlay. Estudei também as diversas maneiras de centralizar o card na página, seja com CSS flexbox ou CSS grid.
