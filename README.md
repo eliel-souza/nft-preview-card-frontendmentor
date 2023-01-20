@@ -4,11 +4,11 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://eliel-souza.github.io/nft-preview-card-frontendmentor/">
       Site
     </a>
     <span> | </span>    
-    <a href="">
+    <a href="https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U">
       Challenge
     </a>
   </h3>
